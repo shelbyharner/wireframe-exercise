@@ -1,9 +1,7 @@
-/* entire doc */
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* header */
 header {
   background-color: #444;
   height: 100px;
@@ -34,7 +32,6 @@ nav a {
   color: #aaa;
 }
 
-/* main */
 main {
   width: 960px;
   margin: auto;
@@ -89,7 +86,6 @@ article div:hover {
   transition: 350ms;
 }
 
-/* footer */
 footer {
   background-color: #444;
   height: 130px;
